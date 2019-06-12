@@ -7,3 +7,15 @@
 The pass:q[`standard_name`]s for `eta` and `depth` 
 
 The `standard_name`s for `eta` and `depth` 
+
+
+[[example-h.1, Example H.1, "Point data"]]
+[caption="Example H.1. "]
+.Point data.
+====
+----
+   dimensions:
+      obs = 1234 ;
+----
+Some text
+====
