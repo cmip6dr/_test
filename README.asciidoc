@@ -13,9 +13,9 @@ The `standard_name`s for `eta` and `depth`
 [caption="Example H.1. "]
 .Point data.
 ====
-....
+----
    dimensions:
       obs = 1234 ;
-....
+----
 Some text
 ====
