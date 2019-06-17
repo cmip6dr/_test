@@ -19,3 +19,9 @@ The `standard_name`s for `eta` and `depth`
 ----
 Some text
 ====
+
+http://clipc-services.ceda.ac.uk/dreq/index/mip.html[1.1 Model Intercomparison Project \[mip\]]
+
+http://clipc-services.ceda.ac.uk/dreq/index/mip.html[1.1 Model Intercomparison Project [mip]]
+
+END
